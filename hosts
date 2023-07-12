@@ -1,0 +1,5 @@
+[group_A]
+managed1    ansible_host=192.168.50.3
+
+[group_B]
+managed2    ansible_host=192.168.50.2
